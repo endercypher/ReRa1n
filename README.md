@@ -3,13 +3,13 @@ ReRa1n source code
 
 How to use on linux:
 
-git clone https://aidangamzer/ReRa1n
+git clone https://github.com/AidanGamzer/ReRa1n.git
 
 cd ReRa1n
 
-sudo cp ReRa1n.sh /usr/bin
+sudo cp rera1n.sh /usr/bin
 
-sudo chmod +x /usr/bin/ReRa1n.sh
+sudo chmod +x /usr/bin/rera1n.sh
 
 sudo apt-get update --fix-missing
 
